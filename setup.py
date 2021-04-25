@@ -11,7 +11,7 @@ setup(
    long_description=long_description,
    author='Michal Gabaja,
    author_email='michal.gabaja@hotmail.com',
-   url="http://www.foopackage.com/",
+   url="https://github.com/H4se0/",
    packages=['vodafone'],  #same as name
    
   
